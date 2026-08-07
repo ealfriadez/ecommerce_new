@@ -1,0 +1,9 @@
+{
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-25",
+      "path": "C:\\Users\\Papá Eleazar\\.jdks\\ms-25.0.4"
+    }
+  ],
+  "java.compile.nullAnalysis.mode": "disabled"
+}
